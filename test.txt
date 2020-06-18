@@ -1,2 +1,9 @@
 Hi,
 I am Aiswarya.S and i am learning github.
+This is a repository created by cloning it onto the local using https 
+
+Commands followed:
+git init <url>
+git add .
+git commit -m "message"
+git push
