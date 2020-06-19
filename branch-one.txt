@@ -1,0 +1,1 @@
+Another new change in the branch that is going to be merged.
